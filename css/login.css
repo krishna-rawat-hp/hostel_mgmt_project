@@ -1,0 +1,23 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family: initial;
+}
+
+#login #login-row #login-column #login-box{
+	margin-top: -550px;
+	margin-left: 50px;
+	max-width: 500px;
+	background: rgba(0, 0, 0, 0.5);
+	height:  350px;
+	border: 1px solid #9C9C9C;
+}
+
+#login  #login-row #login-column #login-box #login-form{
+	padding: 20px;
+}
+
+#login #login-row #login-column #login-box #login-form #register-link{
+	margin-top: -60px;
+}
+
